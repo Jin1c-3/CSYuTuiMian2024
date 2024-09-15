@@ -499,6 +499,8 @@
 
 >[国防科技大学2025年推荐免试研究生预推免报名系统即将开启](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13902)
 
+【截止日期：9.19 24:00】[公布计算机学院2025级地方院校推荐免试硕士研究生三（含推免生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905)
+
 ## 苏州大学
 
 > 计算机科学与技术学院(软件学院)分两批次考试，只能选择一个参加

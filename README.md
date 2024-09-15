@@ -76,15 +76,21 @@
 ## 北京大学
 >[北京大学 2025 年接收推荐免试研究生办法（校本部）9 月 10 日 10:00-14 日 16:00](https://admission.pku.edu.cn/docs/20240910105625196643.pdf?CSRFT=POA9-FX8R-9R0B-8N3R-EV1U-MVSX-FPQT-0D8M)
 
-【报名截止：9.14 16：00】 [计算机学院](https://cs.pku.edu.cn/info/1022/3272.htm)
+<details>
 
-【报名截止：9.14 16：00】 [智能学院](https://sai.pku.edu.cn/info/1034/3108.htm)
+<summary> 已截止的 </summary>
 
-【报名截止：9.14 16：00】 [软件与微电子学院(硕士)](https://www.ss.pku.edu.cn/admission/admnotice/4603.html)
+~~【报名截止：9.14 16：00】 [计算机学院](https://cs.pku.edu.cn/info/1022/3272.htm)~~
 
-【报名截止：9.14 16：00】 [软件与微电子学院(直博)](https://www.ss.pku.edu.cn/admission/admnotice/4602.html)
+~~【报名截止：9.14 16：00】 [智能学院](https://sai.pku.edu.cn/info/1034/3108.htm)~~
 
-【报名截止：9.14 16：00】 [信息与工程学院(深圳)](https://www.ece.pku.edu.cn/info/1025/2832.htm)
+~~【报名截止：9.14 16：00】 [软件与微电子学院(硕士)](https://www.ss.pku.edu.cn/admission/admnotice/4603.html)~~
+
+~~【报名截止：9.14 16：00】 [软件与微电子学院(直博)](https://www.ss.pku.edu.cn/admission/admnotice/4602.html)~~
+
+~~【报名截止：9.14 16：00】 [信息与工程学院(深圳)](https://www.ece.pku.edu.cn/info/1025/2832.htm)~~
+
+</details>
 
 ## 上海交通大学
 
@@ -186,6 +192,8 @@
 
 ~~【截止日期：9.11 24：00】[中山大学计算机学院2025级推荐免试研究生预选拔通知](https://cse.sysu.edu.cn/content/7164)~~
 
+【截止日期：9.20 12:00】[中山大学网络空间安全学院2025年接收优秀应届本科毕业生推荐免试攻读研究生预报名通知](https://scst.sysu.edu.cn/news/news02/1416783.htm)
+
 ## 南京大学
 
 > [南京大学2025年接收推荐免试研究生预报名通知](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
@@ -207,17 +215,23 @@
 
 >【报名截止：9.15】[2025年推免生招生预选拔活动报名须知及各院系预选拔工作通知](https://gsao.fudan.edu.cn/8a/a3/c15014a690851/page.htm)
 
+<details>
+
+<summary> 已截止的 </summary>
+
 ~~【报名截止：9.13 18:00】[计算机科学技术学院](https://cs.fudan.edu.cn/8a/d6/c24277a690902/page.htm)~~
 
 ~~【报名截止：9.13 16:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4696)~~
 
-【报名截止：9.15 16:00】[大数据学院](https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm)
+~~【报名截止：9.15 16:00】[大数据学院](https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm)~~
 
-【报名截止：9.15 16:00】[工程与应用技术研究院](https://faet.fudan.edu.cn/8b/9b/c23815a691099/page.htm)
+~~【报名截止：9.15 16:00】[工程与应用技术研究院](https://faet.fudan.edu.cn/8b/9b/c23815a691099/page.htm)~~
 
-【报名截止：9.15 16:00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/6400.htm)
+~~【报名截止：9.15 16:00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/6400.htm)~~
 
-【报名截止：9.15 16:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/8b/53/c43157a691027/page.htm)
+~~【报名截止：9.15 16:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/8b/53/c43157a691027/page.htm)~~
+
+</details>
 
 ## 西安交通大学
 
@@ -401,7 +415,7 @@
 
 ~~【截止时间：9.4】[国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)~~
 
-【截止时间：9.14】[信息学院](https://www.ise.sdu.edu.cn/info/1025/13923.htm)
+~~【截止时间：9.14】[信息学院](https://www.ise.sdu.edu.cn/info/1025/13923.htm)~~
 
 【截止时间：9.18 17:00】[计算机科学与技术学院](https://www.cs.sdu.edu.cn/info/1068/6336.htm)
 
@@ -411,9 +425,9 @@
 
 ## 湘潭大学
 
-【截止时间：9.15】[数学与计算科学学院](https://math.xtu.edu.cn/info/1059/4441.htm)
+~~【截止时间：9.15】[数学与计算科学学院](https://math.xtu.edu.cn/info/1059/4441.htm)~~
 
-【截止时间：9.15】[计算机学院2025年招收推荐免试攻读硕士研究生工作方案](https://jwxy.xtu.edu.cn/info/1023/3426.htm)  
+~~【截止时间：9.15】[计算机学院2025年招收推荐免试攻读硕士研究生工作方案](https://jwxy.xtu.edu.cn/info/1023/3426.htm)~~
 
 ## 华东理工大学
 
@@ -461,17 +475,23 @@
 
 >[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
+<details>
+
+<summary> 已截止的 </summary>
+
 ~~【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)~~
 
 ~~【截止日期：8.30】[天津大学2025级卓越工程师导师团报名须知](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)~~
 
-【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
+~~【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)~~
 
 ~~【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)~~
 
 ~~【截止日期：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)~~
 
-【截止日期：9.15 12:00】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4613.htm)
+~~【截止日期：9.15 12:00】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4613.htm)~~
+
+</details>
 
 【截止日期：9.20】[天津大学2025推免生接收篇](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
